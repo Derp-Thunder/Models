@@ -1,0 +1,13 @@
+newmtl PartMaterial(Clone)
+Kd 1 1 1
+map_Kd texture.CorsairF4U3dexport_export.png
+illum 2
+
+newmtl DesignerSubPartSelected(Clone) (Instance)
+Kd 0.3828839 0.3970588 0.1401384
+illum 2
+
+newmtl DesignerPartSelected(Clone) (Instance)
+Kd 0.9683569 1 0.4264705
+illum 2
+
